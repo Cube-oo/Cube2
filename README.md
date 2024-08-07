@@ -7,3 +7,5 @@ FPV racing Open Source BOX
 Work in progress
 
 ![Alt text](https://github.com/Cube-oo/Cube2/blob/main/Cube2_Pic2.jpg?raw=true)
+
+![Alt text](https://github.com/Cube-oo/Cube2/blob/main/Cube2_Pic3.jpg?raw=true)
